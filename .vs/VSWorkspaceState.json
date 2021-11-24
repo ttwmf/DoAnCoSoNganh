@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\Scripts",
+    "\\Assets\\Scripts\\Camera",
+    "\\Assets\\Scripts\\Effect",
+    "\\Assets\\Scripts\\Item",
+    "\\Assets\\Scripts\\Managers",
+    "\\Assets\\Scripts\\ScriptableObject",
+    "\\Assets\\Scripts\\Shell",
+    "\\Assets\\Scripts\\Tank"
+  ],
+  "SelectedNode": "\\Assets\\Scripts\\Item\\ItemPickupable.cs",
+  "PreviewInSolutionExplorer": false
+}
